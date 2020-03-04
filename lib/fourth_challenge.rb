@@ -7,8 +7,8 @@ def fourth_challenge
       :hero_friends => [
         #your hashes here!
         {
-          :name => "",
-          :age => "",
+          :name => "Benvolio",
+          :age => "17",
           :attitude => ""
         }, 
         {
